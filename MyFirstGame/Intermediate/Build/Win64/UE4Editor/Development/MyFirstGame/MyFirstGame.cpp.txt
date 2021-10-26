@@ -1,0 +1,2 @@
+D:\Documents\Unreal Projects\MyFirstGame\Intermediate\Build\Win64\UE4Editor\Development\MyFirstGame\Definitions.MyFirstGame.h
+D:\Documents\Unreal Projects\MyFirstGame\Source\MyFirstGame\MyFirstGame.h

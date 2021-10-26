@@ -1,0 +1,3 @@
+D:\Documents\Unreal Projects\MyFirstGame\Intermediate\Build\Win64\UE4Editor\Development\MyFirstGame\Definitions.MyFirstGame.h
+D:\Documents\Unreal Projects\MyFirstGame\Source\MyFirstGame\Pickableitem.h
+D:\Documents\Unreal Projects\MyFirstGame\Intermediate\Build\Win64\UE4Editor\Inc\MyFirstGame\Pickableitem.generated.h

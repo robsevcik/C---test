@@ -1,0 +1,5 @@
+D:\Documents\Unreal Projects\MyFirstGame\Intermediate\Build\Win64\UE4Editor\Development\MyFirstGame\Definitions.MyFirstGame.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Documents\Unreal Projects\MyFirstGame\Source\MyFirstGame/Pickableitem.h
+D:\Documents\Unreal Projects\MyFirstGame\Intermediate\Build\Win64\UE4Editor\Inc\MyFirstGame\Pickableitem.generated.h

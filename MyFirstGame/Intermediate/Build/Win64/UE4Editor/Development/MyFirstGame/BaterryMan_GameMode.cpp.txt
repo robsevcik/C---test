@@ -1,0 +1,9 @@
+D:\Documents\Unreal Projects\MyFirstGame\Intermediate\Build\Win64\UE4Editor\Development\MyFirstGame\Definitions.MyFirstGame.h
+D:\Documents\Unreal Projects\MyFirstGame\Source\MyFirstGame\BaterryMan_GameMode.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameMode.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameMode.generated.h
+D:\Documents\Unreal Projects\MyFirstGame\Intermediate\Build\Win64\UE4Editor\Inc\MyFirstGame\BaterryMan_GameMode.generated.h

@@ -1,0 +1,25 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MyFirstGame-7211.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Documents\Unreal Projects\MyFirstGame\Intermediate\Build\Win64\MyFirstGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Documents\Unreal Projects\MyFirstGame\Intermediate\Build\Win64\UE4Editor\Development\MyFirstGame\BaterryMan_GameMode.cpp.obj"
+"D:\Documents\Unreal Projects\MyFirstGame\Intermediate\Build\Win64\UE4Editor\Development\MyFirstGame\Fred.cpp.obj"
+"D:\Documents\Unreal Projects\MyFirstGame\Intermediate\Build\Win64\UE4Editor\Development\MyFirstGame\Fred_gamemode.cpp.obj"
+"D:\Documents\Unreal Projects\MyFirstGame\Intermediate\Build\Win64\UE4Editor\Development\MyFirstGame\MyFirstGame.cpp.obj"
+"D:\Documents\Unreal Projects\MyFirstGame\Intermediate\Build\Win64\UE4Editor\Development\MyFirstGame\MyFirstGameCharacter.cpp.obj"
+"D:\Documents\Unreal Projects\MyFirstGame\Intermediate\Build\Win64\UE4Editor\Development\MyFirstGame\MyFirstGameGameMode.cpp.obj"
+"D:\Documents\Unreal Projects\MyFirstGame\Intermediate\Build\Win64\UE4Editor\Development\MyFirstGame\Pickableitem.cpp.obj"
+"D:\Documents\Unreal Projects\MyFirstGame\Intermediate\Build\Win64\UE4Editor\Development\MyFirstGame\BaterryMan_GameMode.gen.cpp.obj"
+"D:\Documents\Unreal Projects\MyFirstGame\Intermediate\Build\Win64\UE4Editor\Development\MyFirstGame\Fred.gen.cpp.obj"
+"D:\Documents\Unreal Projects\MyFirstGame\Intermediate\Build\Win64\UE4Editor\Development\MyFirstGame\Fred_gamemode.gen.cpp.obj"
+"D:\Documents\Unreal Projects\MyFirstGame\Intermediate\Build\Win64\UE4Editor\Development\MyFirstGame\MyFirstGame.init.gen.cpp.obj"
+"D:\Documents\Unreal Projects\MyFirstGame\Intermediate\Build\Win64\UE4Editor\Development\MyFirstGame\MyFirstGameCharacter.gen.cpp.obj"
+"D:\Documents\Unreal Projects\MyFirstGame\Intermediate\Build\Win64\UE4Editor\Development\MyFirstGame\MyFirstGameGameMode.gen.cpp.obj"
+"D:\Documents\Unreal Projects\MyFirstGame\Intermediate\Build\Win64\UE4Editor\Development\MyFirstGame\Pickableitem.gen.cpp.obj"
+"D:\Documents\Unreal Projects\MyFirstGame\Intermediate\Build\Win64\UE4Editor\Development\MyFirstGame\Default.rc2.res"
+/OUT:"D:\Documents\Unreal Projects\MyFirstGame\Intermediate\Build\Win64\UE4Editor\Development\MyFirstGame\UE4Editor-MyFirstGame-7211.lib"

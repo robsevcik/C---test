@@ -1,0 +1,9 @@
+D:\Documents\Unreal Projects\MyFirstGame\Intermediate\Build\Win64\UE4Editor\Development\MyFirstGame\Definitions.MyFirstGame.h
+D:\Documents\Unreal Projects\MyFirstGame\Source\MyFirstGame\Fred_gamemode.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\Documents\Unreal Projects\MyFirstGame\Intermediate\Build\Win64\UE4Editor\Inc\MyFirstGame\Fred_gamemode.generated.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime/MovieScene/Public/EntitySystem/MovieSceneEntitySystemTypes.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntityIDs.h
